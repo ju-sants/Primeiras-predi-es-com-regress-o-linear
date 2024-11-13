@@ -1,7 +1,8 @@
 # O começo da ciência
 
-**Olá amigos!** Aqui é o juan, e nesse repositório está o começo de minha trajetória na ciência de dados
-esse notebook não tem nenhuma intenção de ser profissional nem super acadêmico
+**Olá amigos!** Aqui é o juan! E nesse repositório está o começo de minha trajetória na ciência de dados.
+
+Esse notebook não tem nenhuma intenção de ser profissional nem super acadêmico
 ele só tem a intenção de ser **didático** e sinceramente para mim ***divertido!***
 
 ## Técnicas utilizadas:
