@@ -9,4 +9,4 @@ ele só tem a intenção de ser **didático** e sinceramente para mim ***diverti
 **Seaborn** para visualização da correlação das variáveis
 **plotly.express** para boxplots
 **sklearn** para regressão linear
-**pyplot** para a visualização dos resultados de predição
+**pyplot** para a visualização dos resultados de predição 
